@@ -41,11 +41,11 @@ The dataset consists of text from three domains:
 
 Each AI-generated response is associated with:
 
-- none → original AI output
+- none -> original AI output
 
-- light → lightly edited version
+- light -> lightly edited version
 
-- heavy → heavily edited version
+- heavy -> heavily edited version
 
 Each human-written response appears only as none, serving as a realistic baseline.
 
